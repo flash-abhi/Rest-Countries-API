@@ -28,6 +28,6 @@ Welcome to the Rest Countries API Application, a simple yet powerful web app tha
 #### 2️⃣ View Country Details – Click on a country from the results to explore its details.
 #### 3️⃣ Navigate Easily – Switch between countries with ease!
 
-# 💡 Pro Tip: This app relies on the REST Countries API, so make sure you have an active internet connection to fetch the latest country data! 🌎
+### 💡 Pro Tip: This app relies on the REST Countries API, so make sure you have an active internet connection to fetch the latest country data! 🌎
 
-# 🚀 Happy Exploring! 🌍✨
+### 🚀 Happy Exploring! 🌍✨
